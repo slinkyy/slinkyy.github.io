@@ -1,6 +1,5 @@
-title: "Hacknotes"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: nil
-search_enabled: true
-search_tokenizer_separator: /[\s/]+/
-heading_anchors: true
+color_scheme: dark
+title: Hacknotes
+description: General educational hacking notes
+url: "https://slinkyy.github.io" 
