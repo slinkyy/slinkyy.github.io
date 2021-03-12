@@ -1,4 +1,6 @@
-title: "Remote theme example"
+title: "Hacknotes"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+color_scheme: nil
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+heading_anchors: true
